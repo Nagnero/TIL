@@ -28,4 +28,16 @@ ex) \<p> HTML practice \</p>
 - 작은 따옴표나 큰 따옴표로 = 이후를 묶어줘야 함 (혼용은 불가)
 
 ### 특수문자
-- [test](/image/entity reference.png)
+<img src="../image/entity reference.png" width="550">
+
+### 이미지 참조
+- \<img>태그를 이용, 닫는태그(\</img>)가 없음  
+ex)\<img src="http://example_url.com">
+- 문서를 통해서 참조도 가능  
+. 은 한 폴더 위로, / 는 폴더 내부를 의미  
+ex) \<img src="example/folder/image/jpg>
+
+<br>
+
+## Reference
+[https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started#html_%EC%9A%94%EC%86%8Celement%EC%9D%98_%EA%B5%AC%EC%A1%B0](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started#html_%EC%9A%94%EC%86%8Celement%EC%9D%98_%EA%B5%AC%EC%A1%B0)
