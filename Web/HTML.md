@@ -28,10 +28,4 @@ ex) \<p> HTML practice \</p>
 - 작은 따옴표나 큰 따옴표로 = 이후를 묶어줘야 함 (혼용은 불가)
 
 ### 특수문자
-- <img src="./>
-
-<br>
-
-# JavaScript
-### 매개변수(Parameter)와 인자(Argument)
-dsdfasdf
+- [test](/image/entity reference.png)
