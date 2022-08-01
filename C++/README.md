@@ -47,6 +47,7 @@ if(i.islower()){
 ```
 <br><br>
 
+---
 
 ## algorithm 헤더파일
 
@@ -126,6 +127,7 @@ v.erase(unique(v.being(), v.end()), v.end());
 - 범위 안 (begin부터 end까지)의 원소들 중에서 val과 일치하는 첫번째 값의 반복자 return
 - 범위는 주소값으로 넣어줘야 함
 <br><br>
+
 ---
 
 ## vector 헤더파일
